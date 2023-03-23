@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T08:03:41.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="21.0.10" etag="Bwq-o9bQTU1aasuFXmky" type="github"><diagram name="第 1 页" id="YWF56kD7X21CZKScaTIJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-23T08:31:06.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="7qVjM_M81zIBldNOHF5j" version="21.0.10" type="github">
+  <diagram name="第 1 页" id="YWF56kD7X21CZKScaTIJ">
+    <mxGraphModel dx="993" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-1" value="老年公寓管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-3" value="GUI层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="105" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-5" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-6" value="运营人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-7" value="护理人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="720" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AOLF8R2JMbUTKK3T4jWs-9" value="业务逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
